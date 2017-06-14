@@ -1,0 +1,476 @@
+{
+  "especialidades":[
+ {
+   "FIELD1": "Acupunturista",
+   "FIELD2": ""
+ },
+ {
+   "FIELD1": "Alergólogo e Inmunólogo Clínico",
+   "FIELD2": ""
+ },
+ {
+   "FIELD1": "Algólogo (o Terapia del Dolor)",
+   "FIELD2": ""
+ },
+ {
+   "FIELD1": "Anatomopatólogos (o Anatomía Patológica)",
+   "FIELD2": ""
+ },
+ {
+   "FIELD1": "Anestesiólogo",
+   "FIELD2": ""
+ },
+ {
+   "FIELD1": "Angiólogo y Cirujano Vascular",
+   "FIELD2": ""
+ },
+ {
+   "FIELD1": "Audiólogo",
+   "FIELD2": " Foniatra y Otoneurólogo"
+ },
+ {
+   "FIELD1": "Bariatra (Tratamiento de Obesidad)",
+   "FIELD2": ""
+ },
+ {
+   "FIELD1": "Biología de la Reproducción Humana",
+   "FIELD2": ""
+ },
+ {
+   "FIELD1": "Biomedicina",
+   "FIELD2": ""
+ },
+ {
+   "FIELD1": "Cardiólogo",
+   "FIELD2": ""
+ },
+ {
+   "FIELD1": "Cirujano General",
+   "FIELD2": ""
+ },
+ {
+   "FIELD1": "Cirujano Plástico",
+   "FIELD2": " Estético y Reconstructivo"
+ },
+ {
+   "FIELD1": "Dentista",
+   "FIELD2": ""
+ },
+ {
+   "FIELD1": "Dermatólogo",
+   "FIELD2": ""
+ },
+ {
+   "FIELD1": "Diagnóstico en temas de salud",
+   "FIELD2": ""
+ },
+ {
+   "FIELD1": "Endocrinólogo",
+   "FIELD2": ""
+ },
+ {
+   "FIELD1": "Enfermería",
+   "FIELD2": ""
+ },
+ {
+   "FIELD1": "Epidemiólogo",
+   "FIELD2": ""
+ },
+ {
+   "FIELD1": "Especialista en Infertilidad",
+   "FIELD2": ""
+ },
+ {
+   "FIELD1": "Especialista en Rehabilitación y Medicina Física",
+   "FIELD2": ""
+ },
+ {
+   "FIELD1": "Fisioterapeuta",
+   "FIELD2": ""
+ },
+ {
+   "FIELD1": "Funcionario y administrador",
+   "FIELD2": ""
+ },
+ {
+   "FIELD1": "Gastroenterólogo",
+   "FIELD2": ""
+ },
+ {
+   "FIELD1": "Genética",
+   "FIELD2": ""
+ },
+ {
+   "FIELD1": "Geriatra",
+   "FIELD2": ""
+ },
+ {
+   "FIELD1": "Ginecólogo y Obstetra",
+   "FIELD2": ""
+ },
+ {
+   "FIELD1": "Hematólogo",
+   "FIELD2": ""
+ },
+ {
+   "FIELD1": "Homeopatía",
+   "FIELD2": ""
+ },
+ {
+   "FIELD1": "Imagenología Diagnóstica y Terapéutica",
+   "FIELD2": ""
+ },
+ {
+   "FIELD1": "Infectólogo",
+   "FIELD2": ""
+ },
+ {
+   "FIELD1": "Inmunólogo",
+   "FIELD2": ""
+ },
+ {
+   "FIELD1": "Internista / Médico Internista",
+   "FIELD2": ""
+ },
+ {
+   "FIELD1": "Laboratorios de Análisis Clínicos",
+   "FIELD2": ""
+ },
+ {
+   "FIELD1": "Logopeda y Fonoaudiólogo",
+   "FIELD2": ""
+ },
+ {
+   "FIELD1": "Medicina Crítica y Terapia Intensiva",
+   "FIELD2": ""
+ },
+ {
+   "FIELD1": "Médico del Deporte",
+   "FIELD2": ""
+ },
+ {
+   "FIELD1": "Médico General",
+   "FIELD2": ""
+ },
+ {
+   "FIELD1": "Naturopatía y Medicina Alternativa en General",
+   "FIELD2": ""
+ },
+ {
+   "FIELD1": "Nefrólogo (Hemodiálisis)",
+   "FIELD2": ""
+ },
+ {
+   "FIELD1": "Neonatólogo",
+   "FIELD2": ""
+ },
+ {
+   "FIELD1": "Neumólogo",
+   "FIELD2": ""
+ },
+ {
+   "FIELD1": "Neurocirujano",
+   "FIELD2": ""
+ },
+ {
+   "FIELD1": "Neurofisiólogo Clínico",
+   "FIELD2": ""
+ },
+ {
+   "FIELD1": "Neurólogo",
+   "FIELD2": ""
+ },
+ {
+   "FIELD1": "Neurootología",
+   "FIELD2": ""
+ },
+ {
+   "FIELD1": "Neuropatía",
+   "FIELD2": ""
+ },
+ {
+   "FIELD1": "Neuroradiólogo",
+   "FIELD2": ""
+ },
+ {
+   "FIELD1": "Nutriólogo",
+   "FIELD2": ""
+ },
+ {
+   "FIELD1": "Odontólogo",
+   "FIELD2": ""
+ },
+ {
+   "FIELD1": "Oftalmólogo",
+   "FIELD2": ""
+ },
+ {
+   "FIELD1": "Oncólogo",
+   "FIELD2": ""
+ },
+ {
+   "FIELD1": "Optometrista",
+   "FIELD2": ""
+ },
+ {
+   "FIELD1": "Ortodoncista",
+   "FIELD2": ""
+ },
+ {
+   "FIELD1": "Ortopedista y Traumatólogo",
+   "FIELD2": ""
+ },
+ {
+   "FIELD1": "Otorrinolaringólogo",
+   "FIELD2": ""
+ },
+ {
+   "FIELD1": "Patólogo (Médico Patólogo)",
+   "FIELD2": ""
+ },
+ {
+   "FIELD1": "Pediatra",
+   "FIELD2": ""
+ },
+ {
+   "FIELD1": "Podiatra",
+   "FIELD2": ""
+ },
+ {
+   "FIELD1": "Podólogo",
+   "FIELD2": ""
+ },
+ {
+   "FIELD1": "Proctólogo (o Coloproctólogo)",
+   "FIELD2": ""
+ },
+ {
+   "FIELD1": "Prótesis (u Ortopedista de Reemplazo Articular)",
+   "FIELD2": ""
+ },
+ {
+   "FIELD1": "Psicoanalista (o Psicoterapia Medica)",
+   "FIELD2": ""
+ },
+ {
+   "FIELD1": "Psiquiatra",
+   "FIELD2": ""
+ },
+ {
+   "FIELD1": "Quiropráctico",
+   "FIELD2": ""
+ },
+ {
+   "FIELD1": "Radio Oncología",
+   "FIELD2": ""
+ },
+ {
+   "FIELD1": "Radiología e Imagen",
+   "FIELD2": ""
+ },
+ {
+   "FIELD1": "Radioterapia",
+   "FIELD2": ""
+ },
+ {
+   "FIELD1": "Reumatólogo",
+   "FIELD2": ""
+ },
+ {
+   "FIELD1": "Sexólogo",
+   "FIELD2": ""
+ },
+ {
+   "FIELD1": "Terapeuta en Heridas",
+   "FIELD2": " Estomas y Quemaduras"
+ },
+ {
+   "FIELD1": "Terapia Endovascular Neurologica",
+   "FIELD2": ""
+ },
+ {
+   "FIELD1": "Urgencias Médicas",
+   "FIELD2": ""
+ },
+ {
+   "FIELD1": "Urólogo",
+   "FIELD2": ""
+ },
+ {
+   "FIELD1": "Estomatólogo",
+   "FIELD2": ""
+ },
+ {
+   "FIELD1": "Tanatólogo",
+   "FIELD2": ""
+ },
+ {
+   "FIELD1": "Alergólogo Pediatra",
+   "FIELD2": ""
+ },
+ {
+   "FIELD1": "Cardiólogo Hemodinamista",
+   "FIELD2": ""
+ },
+ {
+   "FIELD1": "Cardiólogo Pediatra",
+   "FIELD2": ""
+ },
+ {
+   "FIELD1": "Cirujano Cardiotorácico",
+   "FIELD2": ""
+ },
+ {
+   "FIELD1": "Cirujano Cardiotorácico Pediatra",
+   "FIELD2": ""
+ },
+ {
+   "FIELD1": "Cirujano Cardiovascular y Torácico",
+   "FIELD2": ""
+ },
+ {
+   "FIELD1": "Cirujano de la Mano",
+   "FIELD2": ""
+ },
+ {
+   "FIELD1": "Cirujano Endocrinólogo",
+   "FIELD2": ""
+ },
+ {
+   "FIELD1": "Cirujano Endoscopista",
+   "FIELD2": ""
+ },
+ {
+   "FIELD1": "Cirujano Gastroenterólogo",
+   "FIELD2": ""
+ },
+ {
+   "FIELD1": "Cirujano Laparoscópico",
+   "FIELD2": ""
+ },
+ {
+   "FIELD1": "Cirujano Maxilofacial",
+   "FIELD2": ""
+ },
+ {
+   "FIELD1": "Cirujano Oncólogo",
+   "FIELD2": ""
+ },
+ {
+   "FIELD1": "Cirujano Pediatra",
+   "FIELD2": ""
+ },
+ {
+   "FIELD1": "Cirujano Urólogo",
+   "FIELD2": ""
+ },
+ {
+   "FIELD1": "Dermatólogo Pediatra",
+   "FIELD2": ""
+ },
+ {
+   "FIELD1": "Endocrinólogo Pediatra",
+   "FIELD2": ""
+ },
+ {
+   "FIELD1": "Gastroenterólogo Pediatra",
+   "FIELD2": ""
+ },
+ {
+   "FIELD1": "Ginecólogo Oncólogo",
+   "FIELD2": ""
+ },
+ {
+   "FIELD1": "Hematólogo Pediatra",
+   "FIELD2": ""
+ },
+ {
+   "FIELD1": "Infectólogo Pediatra",
+   "FIELD2": ""
+ },
+ {
+   "FIELD1": "Medicina Crítica y Terapia Intensiva Pediátrica",
+   "FIELD2": ""
+ },
+ {
+   "FIELD1": "Medicina Integrada",
+   "FIELD2": ""
+ },
+ {
+   "FIELD1": "Medicina Materno/Fetal",
+   "FIELD2": ""
+ },
+ {
+   "FIELD1": "Medicina Nuclear e Imagenología Molecular",
+   "FIELD2": ""
+ },
+ {
+   "FIELD1": "Médico del Trabajo",
+   "FIELD2": ""
+ },
+ {
+   "FIELD1": "Médico Familiar y Preventivo",
+   "FIELD2": ""
+ },
+ {
+   "FIELD1": "Médico Homeopático",
+   "FIELD2": ""
+ },
+ {
+   "FIELD1": "Nefrólogo Pediatra",
+   "FIELD2": ""
+ },
+ {
+   "FIELD1": "Neumólogo Pediatra",
+   "FIELD2": ""
+ },
+ {
+   "FIELD1": "Neurocirujano Pediátrico",
+   "FIELD2": ""
+ },
+ {
+   "FIELD1": "Neurólogo Pediatra",
+   "FIELD2": ""
+ },
+ {
+   "FIELD1": "Nutriólogo Pediatra",
+   "FIELD2": ""
+ },
+ {
+   "FIELD1": "Odontólogo Pediatra",
+   "FIELD2": ""
+ },
+ {
+   "FIELD1": "Oftalmólogo",
+   "FIELD2": " Subespecialista en Retina y Neurológica"
+ },
+ {
+   "FIELD1": "Oncólogo Pediatra",
+   "FIELD2": ""
+ },
+ {
+   "FIELD1": "Ortopedista y Traumatólogo Pediatra",
+   "FIELD2": ""
+ },
+ {
+   "FIELD1": "Otorrinolaringólogo Pediatra",
+   "FIELD2": ""
+ },
+ {
+   "FIELD1": "Reumatólogo Pediatra",
+   "FIELD2": ""
+ },
+ {
+   "FIELD1": "Urgencias Pediátricas",
+   "FIELD2": ""
+ },
+ {
+   "FIELD1": "Urología Ginecológica",
+   "FIELD2": ""
+ },
+ {
+   "FIELD1": "Urólogo Pediatra",
+   "FIELD2": ""
+ }
+]
+}
